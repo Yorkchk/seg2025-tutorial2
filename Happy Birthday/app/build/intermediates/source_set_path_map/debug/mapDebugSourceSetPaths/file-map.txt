@@ -1,0 +1,46 @@
+com.example.happybirthday.app-customview-poolingcontainer-1.0.0-0 C:\Users\youss\.gradle\caches\8.9\transforms\123ed7761ee4dc492d3eca05fb3416d0\transformed\customview-poolingcontainer-1.0.0\res
+com.example.happybirthday.app-ui-geometry-release-1 C:\Users\youss\.gradle\caches\8.9\transforms\14507b5c9e52a6c948d819035ddf78dc\transformed\ui-geometry-release\res
+com.example.happybirthday.app-ui-tooling-release-2 C:\Users\youss\.gradle\caches\8.9\transforms\157841bffc7a58abf0830f8e939ae5f5\transformed\ui-tooling-release\res
+com.example.happybirthday.app-activity-ktx-1.9.2-3 C:\Users\youss\.gradle\caches\8.9\transforms\17419dc4d2c0920863f2b8bdaa8edd78\transformed\activity-ktx-1.9.2\res
+com.example.happybirthday.app-lifecycle-viewmodel-savedstate-2.8.6-4 C:\Users\youss\.gradle\caches\8.9\transforms\25d5e8f10baeeb1855efb8b10a0c5377\transformed\lifecycle-viewmodel-savedstate-2.8.6\res
+com.example.happybirthday.app-core-runtime-2.2.0-5 C:\Users\youss\.gradle\caches\8.9\transforms\400a2889256dac64018c70be6eea709a\transformed\core-runtime-2.2.0\res
+com.example.happybirthday.app-activity-1.9.2-6 C:\Users\youss\.gradle\caches\8.9\transforms\4421adcb4bcaace95d1358064135babc\transformed\activity-1.9.2\res
+com.example.happybirthday.app-startup-runtime-1.1.1-7 C:\Users\youss\.gradle\caches\8.9\transforms\531d9beab93c17fb39bc85ba46afd68e\transformed\startup-runtime-1.1.1\res
+com.example.happybirthday.app-annotation-experimental-1.4.0-8 C:\Users\youss\.gradle\caches\8.9\transforms\53236e8c66d19a2c0a6cbd513ca4c747\transformed\annotation-experimental-1.4.0\res
+com.example.happybirthday.app-lifecycle-runtime-ktx-release-9 C:\Users\youss\.gradle\caches\8.9\transforms\580a4af9aacec1cc64e19bcfe5779b42\transformed\lifecycle-runtime-ktx-release\res
+com.example.happybirthday.app-foundation-release-10 C:\Users\youss\.gradle\caches\8.9\transforms\5db9db71a487c899189cd6220d2f707a\transformed\foundation-release\res
+com.example.happybirthday.app-runtime-release-11 C:\Users\youss\.gradle\caches\8.9\transforms\61e9bbf8c1c908b71dc530134c01416d\transformed\runtime-release\res
+com.example.happybirthday.app-animation-release-12 C:\Users\youss\.gradle\caches\8.9\transforms\6322ce4d2ab42a26c4b6f8d087da3cc9\transformed\animation-release\res
+com.example.happybirthday.app-material3-release-13 C:\Users\youss\.gradle\caches\8.9\transforms\66305f76c40a047c9c0e8ea914816e84\transformed\material3-release\res
+com.example.happybirthday.app-lifecycle-livedata-core-2.8.6-14 C:\Users\youss\.gradle\caches\8.9\transforms\71620842ac023f3b9a53e447fe5700ce\transformed\lifecycle-livedata-core-2.8.6\res
+com.example.happybirthday.app-savedstate-1.2.1-15 C:\Users\youss\.gradle\caches\8.9\transforms\74e4eb611c9f0ea2286aa515411cacc7\transformed\savedstate-1.2.1\res
+com.example.happybirthday.app-material-ripple-release-16 C:\Users\youss\.gradle\caches\8.9\transforms\75c548d2501807598dfabbe8578180bc\transformed\material-ripple-release\res
+com.example.happybirthday.app-material-icons-core-release-17 C:\Users\youss\.gradle\caches\8.9\transforms\773447df5023aabd8b6e711619426ddf\transformed\material-icons-core-release\res
+com.example.happybirthday.app-material-release-18 C:\Users\youss\.gradle\caches\8.9\transforms\8a4a3eec51f188d9aad7a83d9b8c5e74\transformed\material-release\res
+com.example.happybirthday.app-runtime-saveable-release-19 C:\Users\youss\.gradle\caches\8.9\transforms\8d85ea70dddc6cb407fa05635c83ae61\transformed\runtime-saveable-release\res
+com.example.happybirthday.app-ui-test-manifest-1.6.6-20 C:\Users\youss\.gradle\caches\8.9\transforms\92d1c2b5ab263fe63788009e0f6a5c4e\transformed\ui-test-manifest-1.6.6\res
+com.example.happybirthday.app-ui-graphics-release-21 C:\Users\youss\.gradle\caches\8.9\transforms\9366ff8ce074775f2b1bad5ab15d55bc\transformed\ui-graphics-release\res
+com.example.happybirthday.app-lifecycle-process-2.8.6-22 C:\Users\youss\.gradle\caches\8.9\transforms\9b5bc4a372eeb9d0f2a3b9b839f4b669\transformed\lifecycle-process-2.8.6\res
+com.example.happybirthday.app-ui-util-release-23 C:\Users\youss\.gradle\caches\8.9\transforms\9b6e4f2653573097aa72700fe1b51a48\transformed\ui-util-release\res
+com.example.happybirthday.app-activity-compose-1.9.2-24 C:\Users\youss\.gradle\caches\8.9\transforms\9bf55d94e8ac77374e49803f793f1415\transformed\activity-compose-1.9.2\res
+com.example.happybirthday.app-lifecycle-viewmodel-ktx-2.8.6-25 C:\Users\youss\.gradle\caches\8.9\transforms\a4d178836e4ff695bc8754d7a71100eb\transformed\lifecycle-viewmodel-ktx-2.8.6\res
+com.example.happybirthday.app-foundation-layout-release-26 C:\Users\youss\.gradle\caches\8.9\transforms\a81a5c5fc7330fd2439fce938a56f2d6\transformed\foundation-layout-release\res
+com.example.happybirthday.app-animation-core-release-27 C:\Users\youss\.gradle\caches\8.9\transforms\ada1788129b62efebf8a47b2268c3688\transformed\animation-core-release\res
+com.example.happybirthday.app-lifecycle-runtime-release-28 C:\Users\youss\.gradle\caches\8.9\transforms\b6c2a2fdd9cfe7ff05e29a26c42504d8\transformed\lifecycle-runtime-release\res
+com.example.happybirthday.app-core-ktx-1.13.1-29 C:\Users\youss\.gradle\caches\8.9\transforms\bc4bc575de7a065fc3f72d6954fb3968\transformed\core-ktx-1.13.1\res
+com.example.happybirthday.app-emoji2-1.3.0-30 C:\Users\youss\.gradle\caches\8.9\transforms\c14d80c47a844f8d3805576f7253c90d\transformed\emoji2-1.3.0\res
+com.example.happybirthday.app-profileinstaller-1.3.1-31 C:\Users\youss\.gradle\caches\8.9\transforms\c50f9a68b5f18d47f7f357968052eda6\transformed\profileinstaller-1.3.1\res
+com.example.happybirthday.app-ui-unit-release-32 C:\Users\youss\.gradle\caches\8.9\transforms\d1c509a453ed2dbcb0350b053e52b363\transformed\ui-unit-release\res
+com.example.happybirthday.app-ui-tooling-data-release-33 C:\Users\youss\.gradle\caches\8.9\transforms\d246d96e5dfa59754e0d86a446ca43d7\transformed\ui-tooling-data-release\res
+com.example.happybirthday.app-savedstate-ktx-1.2.1-34 C:\Users\youss\.gradle\caches\8.9\transforms\d7e33c5c5ba9784b88d4a9e0ecd853dc\transformed\savedstate-ktx-1.2.1\res
+com.example.happybirthday.app-ui-tooling-preview-release-35 C:\Users\youss\.gradle\caches\8.9\transforms\e219cc0f2b7d928b9847704086926f2b\transformed\ui-tooling-preview-release\res
+com.example.happybirthday.app-core-1.13.1-36 C:\Users\youss\.gradle\caches\8.9\transforms\e3b6a944f7c6b7fc40b369c50c0637c2\transformed\core-1.13.1\res
+com.example.happybirthday.app-ui-text-release-37 C:\Users\youss\.gradle\caches\8.9\transforms\e4a867567f03480239a58dbcf291b7e4\transformed\ui-text-release\res
+com.example.happybirthday.app-ui-release-38 C:\Users\youss\.gradle\caches\8.9\transforms\ead37e65f437a0d892fb7db2673ffab8\transformed\ui-release\res
+com.example.happybirthday.app-lifecycle-viewmodel-release-39 C:\Users\youss\.gradle\caches\8.9\transforms\ffaca57bc91e004d66799568d13c861b\transformed\lifecycle-viewmodel-release\res
+com.example.happybirthday.app-resValues-40 C:\Users\youss\AndroidStudioProjects\Tutorials\Tutorial2\Happy Birthday\app\build\generated\res\resValues\debug
+com.example.happybirthday.app-packageDebugResources-41 C:\Users\youss\AndroidStudioProjects\Tutorials\Tutorial2\Happy Birthday\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.happybirthday.app-packageDebugResources-42 C:\Users\youss\AndroidStudioProjects\Tutorials\Tutorial2\Happy Birthday\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.happybirthday.app-debug-43 C:\Users\youss\AndroidStudioProjects\Tutorials\Tutorial2\Happy Birthday\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.happybirthday.app-debug-44 C:\Users\youss\AndroidStudioProjects\Tutorials\Tutorial2\Happy Birthday\app\src\debug\res
+com.example.happybirthday.app-main-45 C:\Users\youss\AndroidStudioProjects\Tutorials\Tutorial2\Happy Birthday\app\src\main\res
